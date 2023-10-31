@@ -1,4 +1,4 @@
-mport cv2
+import cv2
 
 # Initialize the MIL (Multiple Instance Learning) tracker
 tracker = cv2.TrackerMIL_create()
